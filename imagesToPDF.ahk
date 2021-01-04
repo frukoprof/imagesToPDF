@@ -47,7 +47,7 @@ HPDF_Page_SetWidth(page, iw)
 ph := HPDF_Page_GetHeight(page)
 pw := HPDF_Page_GetWidth(page)
 
-HPDF_Page_SetRotate(page, 90)
+;~ HPDF_Page_SetRotate(page, 90)
 HPDF_Page_DrawImage(page, hImg, 0, 0, pw, ph)
 }
 
