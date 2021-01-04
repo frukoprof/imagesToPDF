@@ -1,2 +1,2 @@
 # imagesToPDF
-Takes a folder of *.jpg or *.png and turns it into a single PDF file
+Takes a folder of images and turns it into a single PDF file
