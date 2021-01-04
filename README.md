@@ -7,7 +7,7 @@ For 32-bit support take a look at documentations below.
 Only processes JPG and PNG images.
 Can easily be modified to support other formats via calling their functions. 
 
-Executable for 64-bit is under bin-64 folder.
+Executable and dlls for 64-bit is under bin-64 folder.
 
 Documentation of libHaru library can be found at https://github.com/libharu/libharu
 
