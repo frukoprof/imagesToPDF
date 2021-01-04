@@ -9,12 +9,12 @@ Can easily be modified to support other formats via calling their functions.
 
 Executable for 64-bit is under bin-64 folder.
 
-Documentation of libHaru library can be found libharu.org
+Documentation of libHaru library can be found at https://github.com/libharu/libharu
 
-Thanks Thrawn for creating a wrapper!
+Thanks Thrawn for creating a wrapper,
 https://autohotkey.com/board/topic/40659-wrapper-for-libharu-creates-pdfs-stdlib-r1-2009-05-11/
 
-and gwarble for adding Unicode support.
+and gwarble for adding Unicode support!
 https://www.autohotkey.com/boards/viewtopic.php?style=7&f=6&t=60192
 
 Variable names are pretty self explanatory but simply
