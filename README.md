@@ -17,4 +17,4 @@ https://autohotkey.com/board/topic/40659-wrapper-for-libharu-creates-pdfs-stdlib
 and gwarble for adding Unicode support! <br />
 https://www.autohotkey.com/boards/viewtopic.php?style=7&f=6&t=60192
 
-Variable names are pretty self explanatory but simply (1) creates a new PDF document (2) loops over jpg and png images under the folder you selected (3) add a new page which sizes are width and height of the image (4) optionally rotates the page (5) saves the pdf document.
+Variable names are pretty self explanatory but simply (1) creates a new PDF document (2) loops over jpg and png images (3) adds a new page which sizes are width and height of the image (4) optionally rotates the page (5) saves the pdf document.
